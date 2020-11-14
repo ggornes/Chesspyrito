@@ -12,6 +12,10 @@ def start_game():
     while game_input != "quit":
         board.print_board()
         # board.board_to_str()
+        print("Board representation as a list: ")
+        print(board.board_to_list())
+        print("Board representation as a list of list: ")
+        print(board.board_to_list_of_list())
         print("Board representation in one single line: ")
         print(board.board_to_str())
 
