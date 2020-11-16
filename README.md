@@ -9,7 +9,7 @@ Very basic python chess game. The name is in honor of Roberto Gómez Bolaños, m
 pip install -r requirements.txt
 ```
 
-###To start the game:
+### To start the game:
 
 ```shell script
 python main.py
