@@ -3,7 +3,13 @@ Very basic python chess game. The name is in honor of Roberto Gómez Bolaños, m
 
 ![Chespirito](chespirito.png)
 
-To start the game:
+### Install requirements
+
+```shell script
+pip install -r requirements.txt
+```
+
+###To start the game:
 
 ```shell script
 python main.py
